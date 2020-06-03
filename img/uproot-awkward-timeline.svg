@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="203.43753"
-     inkscape:cy="136.97585"
+     inkscape:zoom="1.4"
+     inkscape:cx="291.87811"
+     inkscape:cy="172.81787"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1324"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1164"
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -388,10 +388,10 @@
            style="text-align:center;text-anchor:middle;stroke-width:0.16637062"
            id="tspan1116">(also unreleased)</tspan></text>
       <rect
-         y="108.7086"
+         y="108.08095"
          x="103.16604"
-         height="4.0090408"
-         width="36.081387"
+         height="4.7703152"
+         width="36.081383"
          id="rect1326-9"
          style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
@@ -408,8 +408,8 @@
       <rect
          style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1349"
-         width="36.081387"
-         height="4.0090408"
+         width="36.081383"
+         height="4.6772146"
          x="127.82166"
          y="123.74253" />
       <text
@@ -454,15 +454,15 @@
       <rect
          style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1164"
-         width="84.66671"
+         width="77.611137"
          height="4.3802261"
          x="78.676399"
          y="114.26901" />
       <rect
          y="114.26901"
-         x="163.34311"
+         x="156.28754"
          height="4.3802185"
-         width="10.583313"
+         width="17.638885"
          id="rect1194"
          style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
@@ -486,9 +486,9 @@
       <rect
          style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1196"
-         width="10.583313"
+         width="17.638916"
          height="4.3802185"
-         x="163.34314"
+         x="156.28754"
          y="92.438889" />
       <rect
          style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -534,10 +534,10 @@
            y="81.733383"
            style="text-align:center;text-anchor:middle;stroke-width:0.26458332">Uproot 1.x</tspan></text>
       <rect
-         y="87.327049"
+         y="86.320038"
          x="116.79678"
-         height="4.0758581"
-         width="19.510675"
+         height="5.0895867"
+         width="19.510681"
          id="rect1339"
          style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
@@ -573,7 +573,7 @@
          y="92.438889"
          x="78.675339"
          height="4.3802185"
-         width="84.667801"
+         width="77.612198"
          id="rect1212"
          style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
@@ -585,24 +585,24 @@
          y="92.438889" />
       <rect
          y="96.819107"
-         x="163.34314"
+         x="156.28754"
          height="4.3802185"
-         width="10.583313"
+         width="17.638916"
          id="rect1228"
          style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          style="opacity:1;vector-effect:none;fill:#55d400;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1244"
-         width="10.583374"
+         width="7.055542"
          height="4.3802185"
-         x="152.75977"
+         x="149.23199"
          y="96.819107" />
       <rect
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1082"
-         width="21.166683"
+         width="24.694462"
          height="4.3802185"
-         x="152.75977"
+         x="149.23199"
          y="96.819107" />
       <rect
          y="83.678452"
