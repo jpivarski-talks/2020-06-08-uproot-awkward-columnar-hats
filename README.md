@@ -11,7 +11,7 @@ Run the JupyterLab code with us, altering examples and asking "what if" question
 The preferred way to run these notebooks is through a public cloud service called Binder:
 
 <p align="center">
-  <a href="https://mybinder.org/v2/gh/jpivarski/2020-06-08-uproot-awkward-columnar-hats/1.1?urlpath=lab">
+  <a href="https://mybinder.org/v2/gh/jpivarski/2020-06-08-uproot-awkward-columnar-hats/1.2?urlpath=lab">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="40">
   </a>
 </p>
@@ -21,6 +21,8 @@ Navigate in the JupyterLab file view (left sidebar) to the desired lesson. Note 
 ## Running everything on your own computer
 
 This course will not cover installation of the software, but everything can be installed with pip or conda, standard mechanisms for installing Python packages. See [requirements.txt](requirements.txt) for a list of pip package names.
+
+Note that [uproot4](https://github.com/scikit-hep/uproot4) is extremely provisional and its interfaces will likely change. Use [version 0.0.8](https://github.com/scikit-hep/uproot4/releases/tag/0.0.8) for compatibility with these notebooks, but a newer version for real work.
 
 ## Browsing the material online
 

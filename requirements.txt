@@ -1,5 +1,5 @@
 uproot
-uproot4
+uproot4==0.0.8
 awkward1
 histoprint
 matplotlib
