@@ -1,0 +1,10 @@
+uproot
+uproot4
+awkward1
+histoprint
+matplotlib
+mplhep
+numpy
+pandas
+numba
+particle
