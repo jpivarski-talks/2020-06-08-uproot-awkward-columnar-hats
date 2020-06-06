@@ -8,3 +8,6 @@ numpy
 pandas
 numba
 particle
+pyyaml
+lz4
+xxhash
