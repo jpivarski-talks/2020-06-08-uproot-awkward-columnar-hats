@@ -31,3 +31,5 @@ The cells of the JupyterLab notebooks are deliberately unevaluated—we will dis
 ## Uprooting hats that are awkwardly columnar
 
 <p align="center"><img src="img/blog1841_TheBuriedGnome800.jpg" width="400"></p>
+
+[(Used with permission.)](https://bagelhot.blogspot.com/2007/02/web-daze.html)
